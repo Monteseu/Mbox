@@ -20,7 +20,7 @@ The GameManager is a singleton that can be accesed from everywhere.
 The FxManager (sadly lacking a pooling sys) is meant to take care of every particle.
 
 
-There are to very similar levels.
+There are two very similar levels to show the flow.
 You can skip/Go back and restart the level with the keys "N", "B" and "R".
 
 
