@@ -1,8 +1,8 @@
 # Mbox
 
-> It took me 4h 40min to do it, including the analysis of the reference game
+> It took me 4h 40min to do it, including the analysis of the reference game.
 
-> I wasn't used to a rail-based control system so I has to improvise a little bit.
+> I wasn't used to a rail-based control system so I has to improvise a little bit. Anyway I focused on having a clear level-making system so extending it would be pretty easy.
 
 > I'd really like to improve the level variety but the tech part took me more than I expected. Also the lack of GUI and finishing rewards, animatios etc. More juicy feedback, cam shaking etc.
 
