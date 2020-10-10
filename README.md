@@ -14,10 +14,15 @@ Instructions
 =============
 The reference resolution is 9:16. Anyway you can play however you want.
 The levels are made in prefabs, and they are composed of Paths and Virtual Cameras.
-Each path can be easily modified and every camera is pre-rigged and activated by a trigger.
+Each path can be easily modified and every camera is pre-rigged and activated by a trigger. Scaling and making new levels is pretty easy.
+Only the current level is stored as persistence on PlayerPrefs.
+The GameManager is a singleton that can be accesed from everywhere.
+The FxManager (sadly lacking a pooling sys) is meant to take care of every particle.
+
 
 There are to very similar levels.
 You can skip/Go back and restart the level with the keys "N", "B" and "R".
+
 
 
 This is a quick pre-Analysis I made from the reference before starting.
