@@ -70,8 +70,6 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
-
-
     #region Debug
     private void Update()
     {

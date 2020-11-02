@@ -8,7 +8,4 @@ public class TrapBehaviour : MonoBehaviour
     protected float startTime = 0f;
     [SerializeField]
     protected float activationInterval = 3f;
-
-    
-   
 }

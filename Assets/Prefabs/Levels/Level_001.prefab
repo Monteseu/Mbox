@@ -231,6 +231,8 @@ MonoBehaviour:
   activationInterval: 3
   range: 6
   moveSpeed: 5
+  selfAxis: {x: 1, y: 0, z: 0}
+  killOnContact: 1
 --- !u!54 &701992290
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -421,6 +423,8 @@ MonoBehaviour:
   activationInterval: 3
   range: 6
   moveSpeed: 5
+  selfAxis: {x: 1, y: 0, z: 0}
+  killOnContact: 1
 --- !u!54 &827852659
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -611,6 +615,8 @@ MonoBehaviour:
   activationInterval: 3
   range: 6
   moveSpeed: 5
+  selfAxis: {x: 1, y: 0, z: 0}
+  killOnContact: 1
 --- !u!54 &1408815381
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -736,6 +742,8 @@ MonoBehaviour:
   activationInterval: 3
   range: 6
   moveSpeed: 5
+  selfAxis: {x: 1, y: 0, z: 0}
+  killOnContact: 1
 --- !u!54 &1424667414
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -861,6 +869,8 @@ MonoBehaviour:
   activationInterval: 3
   range: 6
   moveSpeed: 5
+  selfAxis: {x: 1, y: 0, z: 0}
+  killOnContact: 1
 --- !u!54 &1424841162
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1130,6 +1140,8 @@ MonoBehaviour:
   activationInterval: 3
   range: 6
   moveSpeed: 5
+  selfAxis: {x: 1, y: 0, z: 0}
+  killOnContact: 1
 --- !u!54 &2059199403
 Rigidbody:
   m_ObjectHideFlags: 0
